@@ -1,0 +1,21 @@
+# ملفات Java المُجمَّعة
+*.class
+
+# ملفات الحزم النهائية
+*.jar
+*.war
+*.ear
+
+# سجلات الأخطاء
+hs_err_pid*
+*.log
+
+# ملفات ومجلدات NetBeans الخاصة
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+/.nb-gradle/
+build/
